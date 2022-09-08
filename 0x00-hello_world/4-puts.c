@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
- * The function is to print "Programming is like building a multilingual puzzle
+ * main - prints "Programming is like building a multilingual puzzle"
  * followed by a new line
- * the program should return 0 after excusion
+ * return - 0 if executed correctly, non-zero otherwise
  */
 int main(void)
 {
